@@ -1,2 +1,2 @@
 # RubyOnServer
-Créer des serveurs web en ruby sans utiliser RoR
+Créer des serveurs webS en ruby sans utiliser RoR
