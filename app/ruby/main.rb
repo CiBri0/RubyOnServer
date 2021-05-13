@@ -1,3 +1,3 @@
-IP = "192.168.1.28"
-PORT = 5500
+IP = #ip
+PORT = #port
 HTML = "index"
